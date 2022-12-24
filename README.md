@@ -5,7 +5,7 @@ Objective:
 
 
 Methodology:
-1. Algorithms used- K-means, Hierarchical cluster, Agglomerative clustering, Market Basket Analysis or Association rule mining
+1. Algorithms used- K-means, Hierarchical cluster, Agglomerative clustering,
 
 
 Results and Conclusion:
@@ -13,7 +13,7 @@ Results and Conclusion:
 
 B) Market basket analysis or Association rule mining
 Objective:
-1. To cluster mall customers.
+1. To develop association rules for predicting purchase of second item if one item is purchased.
 
 
 Methodology:
